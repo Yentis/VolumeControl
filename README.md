@@ -1,2 +1,2 @@
 # VolumeControl
-Testing out c# volume control on individual applications
+Made for Logitech MX Master, set horizontal scroll in logitech options.
